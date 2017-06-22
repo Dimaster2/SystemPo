@@ -1,0 +1,14 @@
+
+cat code.txt | egrep -i while
+cat code.txt | egrep '\('
+cat code.txt | egrep ^i
+cat code.txt | egrep '<='
+cat code.txt | egrep ^k
+cat code.txt | egrep '\)'
+cat code.txt | egrep '\{'
+cat code.txt | egrep -i sum
+cat code.txt | egrep ^=
+cat code.txt | egrep [\+]
+cat code.txt | egrep [\++]
+cat code.txt | egrep [\;]
+cat code.txt | egrep [\}]
